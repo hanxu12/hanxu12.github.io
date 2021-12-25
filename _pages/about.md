@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Han's Portfolio"
+title: "Summary"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
