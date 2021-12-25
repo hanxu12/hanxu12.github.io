@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Han's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Han Xu"
 description              : &description "personal description"
 url                      : https://hanxu.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,7 +85,7 @@ author:
   bio              : "MEng in Electrical and Computer Engineering @ UIUC"
   location         : "Urbana, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            : "hanxu8@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/hanxu12"
+  github           : "hanxu12"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hxlaf/"
+  linkedin         : "hxlaf"
   orcid            : 
   pinterest        :
   soundcloud       :
