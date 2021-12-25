@@ -13,13 +13,22 @@ Currently, I am looking for a software engineer internship for Summer 2022. I wo
 
 Education
 ---
-- University of Illinois Urbana-Champaign                                                                            Dec 2022
+- University of Illinois Urbana-Champaign                                                                             12/ 2022
 	- Master of Engineering in Electrical and Computer Engineering
 	- GPA: 4.0
-- Lafayette College                                                                                                                    May 2021
+- Lafayette College                                                                                                                     05/ 2021
 	- B.S. in Electrical and Computer Engineering; B.A. in Mathematics
 	- Minor in Computer Science
+- Relevant Coursework: Data Structures & Algorithms, Algorithms, Computer Architecture, Software Engineering, Communication Networks, Computer Vision
 
+Work Experience
+---
+- Software Engineer Intern @ Linux Foundation                                                  06/2021 - 08/2021
+- See: [Hyperledger's Blog](https://www.hyperledger.org/blog/2021/09/21/hyperledger-mentorship-spotlight-iroha-and-cactus-integration)
+	- Designed and implemented a connector plugin with Typescript, Node.js and Docker to enable integration between Iroha and Cactus blockchains for the Hyperledger open-source project.
+	- Leveraged Express web service and REST API to support all Iroha's API operations (20 commands and 15 queries operations); packaged and slimmed the Iroha Docker image by 85%
+	- Devised and deployed API request interfaces; handled response errors via various HTTP status codes
+	- Utilized continuous integration and continuous delivery (CI/CD) and exceeded requirements in each stage, leading to the connector plugin being pushed to production
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
