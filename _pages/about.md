@@ -23,7 +23,7 @@ Education
 
 Work Experience
 ---
-- Software Engineer Intern @ Linux Foundation     <style> body {text-align: right}</style>     
+- Software Engineer Intern @ Linux Foundation          
 - Check out [Hyperledger's Blog](https://www.hyperledger.org/blog/2021/09/21/hyperledger-mentorship-spotlight-iroha-and-cactus-integration)
 	- Designed and implemented a connector plugin with **Typescript**, **Node.js** and **Docker** to enable integration between Iroha and Cactus blockchains for the Hyperledger open-source project.
 	- Leveraged Express web service and **REST API** to support all Iroha's API operations (20 commands and 15 queries operations); packaged and slimmed the Iroha Docker image by **85%**
