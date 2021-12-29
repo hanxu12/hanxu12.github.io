@@ -30,9 +30,12 @@ Work Experience
 	- Devised and deployed API request interfaces; handled response errors via various HTTP status codes
 	- Utilized continuous integration and continuous delivery (CI/CD) and exceeded requirements in each stage, leading to the connector plugin being pushed to production
 
-Selected Projects	- Built a mapping and routing web application (similar to Google Maps) based on Java to render a pixel-by-pixel map of the City of Berkeley
-	- Converted OpenStreetMap’s real-world data into a graph data structure
-	- Implemented a routing function using a shortest-path algorithm (A* search algorithm) to provide users with the best route suggestions
+Selected Projects
+---
+- Email Survey Platform
+- Gitlet
+- Pet Matching System
+- Web-based Map
 
 Skills
 ---
