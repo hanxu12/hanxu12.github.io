@@ -1,6 +1,6 @@
 ---
 title: "Web-based map"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "A Java-based web mapping application that renders a pixel-by-pixel map of the City of Berkeley<br/><img src='/images/demo.gif'>"
 collection: portfolio
 ---
 
