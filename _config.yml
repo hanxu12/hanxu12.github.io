@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Han's Portfolio"
+title                    : "Han's Homepage"
 title_separator          : "-"
 name                     : &name "Han Xu"
 description              : &description "MEng in ECE @ UIUC | Seeking Summer 2022 SDE Internship"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Han Xu (He/Him)"
-  avatar           : "profile.png"
+  avatar           : "reddit.png"
   bio              : "MEng in Electrical and Computer Engineering @ UIUC"
   location         : "Urbana, IL"
   employer         :
