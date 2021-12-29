@@ -13,18 +13,18 @@ Currently, I am looking for a software engineer internship for Summer 2022. I wo
 
 Education
 ---
-- University of Illinois Urbana-Champaign                                                                             12/ 2022
-	- Master of Engineering in Electrical and Computer Engineering
+- University of Illinois Urbana-Champaign                                                                           
+	- Master of Engineering in Electrical and Computer Engineering, Dec 2022 (expected)
 	- GPA: 4.0
-- Lafayette College                                                                                                                     05/ 2021
-	- B.S. in Electrical and Computer Engineering; B.A. in Mathematics
+- Lafayette College                                                                                                                     
+	- B.S. in Electrical and Computer Engineering; B.A. in Mathematics, May 2021
 	- Minor in Computer Science
 - Relevant Coursework: Data Structures & Algorithms, Algorithms, Computer Architecture, Software Engineering, Communication Networks, Computer Vision
 
 Work Experience
 ---
-- Software Engineer Intern @ Linux Foundation          
-- Check out [Hyperledger's Blog](https://www.hyperledger.org/blog/2021/09/21/hyperledger-mentorship-spotlight-iroha-and-cactus-integration)
+- Software Engineer Intern @ Linux Foundation, Jun 2021- Aug 2021          
+- Check out [Hyperledger's blog post](https://www.hyperledger.org/blog/2021/09/21/hyperledger-mentorship-spotlight-iroha-and-cactus-integration)
 	- Designed and implemented a connector plugin with **Typescript**, **Node.js** and **Docker** to enable integration between Iroha and Cactus blockchains for the Hyperledger open-source project.
 	- Leveraged Express web service and **REST API** to support all Iroha's API operations (20 commands and 15 queries operations); packaged and slimmed the Iroha Docker image by **85%**
 	- Devised and deployed API request interfaces; handled response errors via various HTTP status codes
