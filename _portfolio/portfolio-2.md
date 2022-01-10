@@ -1,6 +1,6 @@
 ---
 title: "Pet Matching System"
-excerpt: "A match-making system to pair potential pet owners and pets based on C++ and Qt. <br/><br/><img src='/images/500x300.png'>"
+excerpt: "A match-making system to pair potential pet owners and pets based on C++ and Qt. <br/><br/><img src='/images/pet_matching_system.png'>"
 collection: portfolio
 ---
 
